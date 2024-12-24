@@ -27,6 +27,10 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
 </div>
 
 ###
