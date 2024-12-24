@@ -6,9 +6,9 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00008B&center=true&vCenter=true&random=false&width=1000&lines=My+Visits)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00008B&center=true&vCenter=true&random=false&width=1000&lines=Welcome)](https://git.io/typing-svg)
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Faureliosilvaofc&s=60&c=4c00ff&bg=00000000&no=10&ff=digi&tb=&ta=) ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Faureliosilvaofc&s=60&c=4c00ff&bg=00000000&no=10&ff=digi&tb=&ta=) 
 <br>
 <br>
 
